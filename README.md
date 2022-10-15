@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @umarw345
-- 👀 I’m interested in software engineering
+- 👋 Hi, I’m Umar Waheed
+- 👀 I’m interested in software 
 - 🌱 I’m currently learning Java, HTML, CSS, C++
 - 💞️ I’m looking to collaborate on a project using HTML, Java, CSS
 - 📫 How to reach me @umarw345@gmail.com
